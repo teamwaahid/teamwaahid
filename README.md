@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Wahid Hasan
-#### I am Web Application Developer
+#### I am Web Developer
 I am a MERN stack WEB APPS DEVELOPER with having 1 years of experience. I am working as a Freelance Full Stack web developer.
 
 Skills: HTML / CSS / JS / BOOTSTRAP / MATERIAL UI / REACT / NODE JS / MONGO DB / FIREBASE / HEROKU
